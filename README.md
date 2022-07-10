@@ -9,7 +9,7 @@
 ### Tecnologias que eu utilizo no meu dia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="70" heigth="70" style="max-width:100%;"></img>
           
-
+![Snake animation](https://github.com/WallaceCrespo/WallaceCrespo/blob/output/github-contribution-grid-snake.svg)
 
 
           
