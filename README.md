@@ -6,9 +6,6 @@
 ![WallaceCrespo's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallaceCrespo&show_icons=true&theme=midnight-purple )
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceCrespo&layout=compact&langs_count=16&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-### Tecnologias que eu utilizo no meu dia
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="70" heigth="70" style="max-width:100%;"></img>
           
 ![Snake animation](https://github.com/WallaceCrespo/WallaceCrespo/blob/output/github-contribution-grid-snake.svg)
 
